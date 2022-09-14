@@ -5,4 +5,4 @@ Write a method called printNumberInWord. The method has one parameter number whi
 
 NOTE: Method printNumberInWord needs to be public static for now, we are only using static methods.
 
-NOTE: Do not add main method to solution code.
+NOTE: Do not add main method to solution code..
